@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "2PgJ4wzgvcM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Liam\\Desktop\\ProjectAppFinal\\Motivation\\AffirmationApp\\AffirmationApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Liam\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\Liam\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.2\\microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\Liam\\.nuget\\packages\\mysqlconnector\\2.4.0\\mysqlconnector.2.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
